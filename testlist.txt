@@ -1,0 +1,22 @@
+test_conversion_of_one: Returns I
+test_conversion_of_two: Returns II
+test_conversion_of_three: Returns III
+test_conversion_of_five: Returns V
+test_conversion_of_four: Returns IV
+test_conversion_of_ten: Returns X
+test_conversion_of_nine: Returns IX
+test_conversion_of_fifty: Returns L
+test_conversion_of_forty: Returns XL
+test_conversion_of_one_hundred: Returns C
+test_conversion_of_ninety: Returns XC
+test_conversion_of_five_hundred: Returns D
+test_conversion_of_four_hundred: Returns CD
+test_conversion_of_one_thousand: Returns M
+test_conversion_of_nine_hundred: Returns CM
+test_conversion_of_nineteen_eighty_five: Returns MCMLXXXV
+
+test_conversion_of_null_raises_exception: Raises type exception
+test_conversion_of_string_raises_exception: Raises type exception
+test_conversion_of_negative_raises_exception: Raises out of range exception
+test_conversion_of_number_over_four_thousand_raises_exception: Raises out of range exception
+test_conversion_of_number_xero_raises_exception: Raises out of range exception
