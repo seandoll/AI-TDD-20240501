@@ -4,7 +4,7 @@ Shared space for Swindon Software AI-TDD session
 - gpt_guidance.txt
   - Example prompt text for GPT
 
-- problem_deinition.txt
+- problem_definition.txt
   - Example problems to solve
 
 - testlist_dec_to_roman.txt
